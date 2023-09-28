@@ -88,6 +88,7 @@ awesome-site
 ![learn#math](https://imqqq.com/learn#math)
 ![learn#physical](https://imqqq.com/learn#physical)
 ![learn#compute](https://imqqq.com/learn#compute)
+![learn#law](https://imqqq.com/learn#compute)
 
 ![bank](https://imqqq.com/bank)
 
